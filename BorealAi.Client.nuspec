@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Boreal.Ai.Client</id>
+    <version>0.3.0</version>
+    <authors>boreal.ai</authors>
+    <owners>boreal.ai</owners>
+    
+	<!--
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    -->
+	
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net Client for Boreal.AI service</description>
+    <releaseNotes>Version 0.3.0 with added intent request context</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
